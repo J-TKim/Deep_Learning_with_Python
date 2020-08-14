@@ -1,0 +1,19 @@
+name: deep-learning-with-python
+
+dependencies:
+- python=3.6
+- scikit-learn
+- scipy
+- numpy
+- matplotlib
+- ipython
+- jupyter
+- pillow
+- opencv
+- graphviz
+- cython
+- testpath<0.4
+- pip:
+  - tensorflow
+  - keras
+  - pydot-ng
